@@ -1,0 +1,9 @@
+.die {
+    width:100px;
+    height:100px;
+    float: left;
+    text-align: center;
+    margin: 5px;
+    border: 2px solid black;
+    line-height: 100px;
+}
